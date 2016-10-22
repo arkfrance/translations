@@ -5,7 +5,7 @@ fr:  "Chargement des nouvelles données",
 en:  "Pro Version (Ad free)",
 fr:  "Version PRO",   
 en:  "Dashboard", 
-fr:  "",   //NEW
+fr:  "Tableau de bord",   //NEW
 en:  "Taming Calculator",
 fr:  "Calculateur de taming",   
 en:  "Breeding Calculator",
@@ -165,7 +165,7 @@ fr:  "L'arbalète fait peu de dégâts de torpeur  instantanée, le reste de la 
 en:  "The compound bow is slightly better than the bow, but doesn't exceed the crossbow in dealing torpor. Therefore it is not the most efficient bow for taming.",
 fr:  "L'arc composite est légèrement meilleure que l'arc, mais ne dépasse pas l'arbalète dans le traitement de la torpeur. Il n'est donc pas idéal pour dompter.",   
 en:  "The boomerang can be used to knockout creatures from a distance, without using ammo. If the Boomerang hits a target, it will fly straight back to you. If you miss, it will return by flying back to your counter-clockwise.",
-fr:  "",   //NEW
+fr:  "Le boomerang peut être utilisé pour assomer des créatures à distance, sans utiliser des munitions. Si le Boomerang frappe une cible, il reviendra directement à vous. Si vous manquez, il reviendra vers vous dans le sens anti-horaire.",   //NEW
 en:  "The longneck rifle can make use of the new tranquilizer darts to knock out enemies. Currently, these are one of the best weapons to apply torpor to a creature.",
 fr:  "Le Fusil à canon long peut utiliser avec les nouvelles fléchettes tranquillisantes pour assommer les ennemis. Actuellement, ceux-ci sont l'une des meilleures armes pour appliquer de la torpeur à une créature.",   
 en:  "Throwing rocks at your opponent is better than using your fists, however your melee damage does not apply here since it is about projectiles. Make sure you input the damage percentage of your slingshot in the field.",
@@ -285,11 +285,11 @@ fr:  "Consulter les explications",
 
 //Timer explanation //NEW
 en:  "Why starve taming?",
-fr:  "",   
+fr:  "Pourquoi le faire mourir de faim avant de l'apprivoiser ?",   
 en:  "To get things straight: starve taming does not have any influence on the total time your tame will take. Instead, it is mostly used to minimize risk on important tames. The advantage of starve taming is that you don't use food yet, meaning that you can leave a tame if it for instance gets hit (and the effectiveness gets lowered), without losing your precious kibble.",
-fr:  "",   
+fr:  "Pour bien comprendre : faire mourir de faim un dino avant de le dompter n'a pas d'influence sur la durée totale de votre apprivoisement. Cette méthode est surtout utilisé pour minimiser les risques sur les apprivoisements importants. L'avantage de le faire mourir de faim est que vous n'utilisez la nourriture encore, ce qui signifie que vous pouvez laisser un apprivoisés si elle par exemple est touché (et l'efficacité se réduit), sans perdre votre précieux croquette.",   
 en:  "How does the starve timer work?",
-fr:  "",   
+fr:  "Comment fonctionne le timer ?",   
 en:  "First, make sure you have selected the right creature, level and food you are using for the tame.",
 fr:  "",   
 en:  "Fill in the max food stat of the creature you have knocked unconscious in the 'Max food' field",
